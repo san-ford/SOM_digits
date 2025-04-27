@@ -1,0 +1,2 @@
+# Self-Organizing Map of Handwritten Digits
+This notebook is an exercise to gain familiarity with the applications and functions of self-organizing maps (SOMs). The scikit-learn package for SOMs is applied to an MNIST database of handwritten digits to visualize a reduction in dimensionality from 784 features to 2. The goal of this exercise is to explore the visualization and predictive power of the SOM algorithm.
